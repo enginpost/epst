@@ -1,0 +1,20 @@
+---
+layout: default
+recent: true
+topics: true
+---
+<h1>
+    {{page.title | upcase}}
+</h1>
+
+<div class="post-date">{{page.date | date: "%d-%b-%Y" | upcase }}</div>
+
+{{content}}
+
+<footer>
+    <div class="topics">
+        {%  for tag in page.tags %}
+        <a href="/topic/{{tag}}.html"> {{ tag }} </a>
+        {% endfor %}
+    </div>
+</footer>

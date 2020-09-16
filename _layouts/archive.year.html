@@ -1,0 +1,25 @@
+---
+layout: default
+recent: true
+topics: true
+---
+<h1>ARCHIVE: {{ page.date | date: "%Y" }}</h1>
+
+{% assign current_month = '' %}
+
+<div class="home-posts">
+  {% for post in page.posts %}
+
+  {% assign next_month = post.date | date: "%B" %}
+
+  {% if next_month != current_month %}
+      {% assign current_month = next_month %}
+      <div class="archive-month">{{current_month | upcase}}</div>
+  {% endif %}
+  <a href="{{post.url}}">
+      <h2>{{post.title}}</h2>
+      <div class="home-post-date">{{post.date | date: "%d-%b-%Y" | upcase }}</div>
+      <div class="home-excerpt">{{post.excerpt | truncatewords: 30}}</div>
+  </a>
+  {% endfor %}
+</div>

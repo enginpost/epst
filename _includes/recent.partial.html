@@ -1,0 +1,12 @@
+<div class="recent">
+    <h2>MOST RECENT ARTICLES</h2>
+    <ul>
+    {% for post in site.posts limit:4 %}
+        <li>
+            {{post.date | date: "%d-%b-%Y" | upcase }} - 
+            <a href="{{post.url}}">{{post.title}}</a>
+        </li>
+    {% endfor %}
+    </ul>
+    <a href="/archive/index.html" class="sidebar-button">VISIT THE <strong>ARCHIVE</strong></a>
+</div>

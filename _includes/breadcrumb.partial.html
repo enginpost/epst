@@ -1,0 +1,8 @@
+{% for item in site.data.navigation %}
+    {% if page.url != '/' %}
+        {% if page.url == item.link %}{{ item.bcrumb }} {{ item.name | upcase }}{% endif %}
+        {% if page.url != item.link %}
+            {% if page.url contains item.link %}{{ item.name | upcase }}{% endif %}
+        {% endif %}
+    {% endif %}
+{% endfor %}

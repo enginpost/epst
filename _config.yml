@@ -1,0 +1,50 @@
+title: EPST.CO
+email: x@epst.co
+description: > # this means to ignore newlines until "baseurl:"
+  Blog of various interests
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate-v2
+exclude:
+  - Gemfile
+  - Gemfile.lock
+permalink: /:year/:month/:title.html
+
+# plugins
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-archives
+
+pagination:
+  enabled: true
+  debug: false
+  per_page: 2
+  sort_field: 'date'
+  sort_reverse: true
+  limit: 0
+collections:
+  posts:
+    output: true
+permalink: pretty
+
+autopages:
+  enabled: true
+  collections:
+    enabled: false
+  tags:
+    enabled: true 
+    layout: topics
+    permalink: '/topic/:tag'
+jekyll-archives:
+  recent: true
+  topics: true
+  enabled:
+    - year
+  layouts:
+    year: archive.year
+  permalinks:
+    year: '/archive/:year.html'

@@ -1,0 +1,24 @@
+---
+layout: default
+recent: true
+topics: true
+---
+
+<h1>EPST.CO ARCHIVE BY YEAR</h1>
+
+<div class="home-posts">
+    <p>Select an archive year below</p>
+    {% assign current_year = 'now' | date: "%Y" %}
+    <ul>
+    {% for i in (1..10) %}
+        {% assign this_path = '_site/archive/' | append: current_year | append: '.html' %}
+        {% capture archive_exists %}{% file_exists {{this_path}} %}{% endcapture %}
+        {% if archive_exists == 'true'  %}
+        <li><a href="/archive/{{current_year}}.html">{{current_year}}</a></li>
+        {% else %}
+            {% break %}
+        {% endif %}
+        {% assign current_year = current_year | minus: 1 %}
+    {% endfor %}
+    </ul>
+</div>
