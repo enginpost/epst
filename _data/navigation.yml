@@ -1,6 +1,16 @@
 - name: EPST.CO
-  link: /
+  show: true
+  link: /index.html
   bcrumb: ''
 - name: Archive
+  show: true
   link: /archive/
   bcrumb: '<a href="/">HOME</a> &gt; '
+- name: Topics
+  show: false
+  link: /topic/
+  bcrumb: '<a href="/">HOME</a> &gt; TOPICS'
+- name: Topics
+  show: false
+  link: /articles/
+  bcrumb: '<a href="/">HOME</a> &gt; ARTICLES'

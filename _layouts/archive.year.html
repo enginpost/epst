@@ -1,6 +1,6 @@
 ---
 layout: default
-fm_message: 'hello world'
+# fm_message: 'hello world' {{layout.fm_message}}
 ---
 <h1>ARCHIVE: {{ page.date | date: "%Y" }}</h1>
 
@@ -21,7 +21,4 @@ fm_message: 'hello world'
       <div class="home-excerpt">{{post.excerpt | truncatewords: 30}}</div>
   </a>
   {% endfor %}
-</div>
-<div>
-  fm_message = {{fm_message}}
 </div>

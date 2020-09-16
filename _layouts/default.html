@@ -14,8 +14,8 @@
       <div class="bcrumb">{% include breadcrumb.partial.html %}</div>
       <div class="content">{{ content }}</div>
       <div class="sidebar">
-        {% if page.recent %} {% include recent.partial.html %} {% endif %}
-        {% if page.topics %} {% include topics.partial.html %} {% endif %}
+        {% include recent.partial.html %}
+        {% include topics.partial.html %}
       </div>
     </div>
   </body>

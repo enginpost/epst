@@ -1,6 +1,8 @@
     <ul>
     {% for item in site.data.navigation %}
+        {% if item.show %}
         <li>{% if page.url != item.link %}<a href="{{item.link}}">{{ item.name | upcase }}</a>{% else %}{{item.name | capitalize }}{% endif %}</li>
+        {% endif %}
     {% endfor %}
     </ul>
     

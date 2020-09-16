@@ -12,24 +12,24 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-permalink: /:year/:month/:title.html
 
 # plugins
 plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
+permalink: /articles/:year/:month/:title.html
+
 pagination:
   enabled: true
   debug: false
-  per_page: 2
+  per_page: 5
   sort_field: 'date'
   sort_reverse: true
   limit: 0
 collections:
   posts:
     output: true
-permalink: pretty
 
 autopages:
   enabled: true

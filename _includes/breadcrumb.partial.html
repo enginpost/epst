@@ -1,8 +1,16 @@
 {% for item in site.data.navigation %}
-    {% if page.url != '/' %}
+    {% if page.url != "/index.html" %}
         {% if page.url == item.link %}{{ item.bcrumb }} {{ item.name | upcase }}{% endif %}
         {% if page.url != item.link %}
-            {% if page.url contains item.link %}{{ item.name | upcase }}{% endif %}
+            {% if page.url contains item.link %}
+                {% if item.link != '/index.html' %}
+                    {% if item.show %}
+                        {{ item.bcrumb }} <a href="{{item.link}}">{{item.name | upcase }}</a>   
+                    {% else %}
+                        {{ item.bcrumb }}
+                    {% endif %}
+                {% endif %}
+            {% endif %}
         {% endif %}
-    {% endif %}
+    {% endif%}
 {% endfor %}
