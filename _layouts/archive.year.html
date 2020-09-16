@@ -1,7 +1,6 @@
 ---
 layout: default
-recent: true
-topics: true
+fm_message: 'hello world'
 ---
 <h1>ARCHIVE: {{ page.date | date: "%Y" }}</h1>
 
@@ -22,4 +21,7 @@ topics: true
       <div class="home-excerpt">{{post.excerpt | truncatewords: 30}}</div>
   </a>
   {% endfor %}
+</div>
+<div>
+  fm_message = {{fm_message}}
 </div>

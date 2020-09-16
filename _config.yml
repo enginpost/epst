@@ -40,8 +40,6 @@ autopages:
     layout: topics
     permalink: '/topic/:tag'
 jekyll-archives:
-  recent: true
-  topics: true
   enabled:
     - year
   layouts:
