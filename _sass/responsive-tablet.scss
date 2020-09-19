@@ -1,0 +1,18 @@
+ 
+
+ 
+@media screen and (max-width: 1023px) {
+    
+    .container{
+        display: grid;
+        grid-template-columns:  [window-left] auto 
+                                [content-left] 500px 
+                                [content-right sidebar-left] 200px 
+                                [sidebar-right] auto
+                                [window-right];
+        grid-template-rows:     [nav-top] 50px
+                                [nav-bottom breadcrumb-top] 50px
+                                [breadcrumb-bottom content-top] minmax(1px,auto) 1fr
+                                [content-bottom];
+    }
+}

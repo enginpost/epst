@@ -14,7 +14,7 @@ topics: true
 <footer>
     <div class="topics">
         {%  for tag in page.tags %}
-        <a href="/topic/{{tag}}.html"> {{ tag }} </a>
+        <a href="/topic/{{tag | downcase}}/"> {{ tag }} </a>
         {% endfor %}
     </div>
 </footer>

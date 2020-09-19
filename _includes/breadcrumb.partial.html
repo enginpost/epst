@@ -1,14 +1,17 @@
 {% for item in site.data.navigation %}
+    {% comment %} Test for homepage {% endcomment %}
     {% if page.url != "/index.html" %}
+        {% comment %} Test current page url eq menu link exactly {% endcomment %}
         {% if page.url == item.link %}{{ item.bcrumb }} {{ item.name | upcase }}{% endif %}
+        {% comment %} Test current page url not eq menu link exactly {% endcomment %}
         {% if page.url != item.link %}
+            {% comment %} Test current page url contains menu link {% endcomment %}
             {% if page.url contains item.link %}
+
                 {% if item.link != '/index.html' %}
-                    {% if item.show %}
+                    {% if item.render == true %}
                         {{ item.bcrumb }} <a href="{{item.link}}">{{item.name | upcase }}</a>   
-                    {% else %}
-                        {{ item.bcrumb }}
-                    {% endif %}
+                    {% endif %} 
                 {% endif %}
             {% endif %}
         {% endif %}

@@ -1,0 +1,45 @@
+@media screen and (max-width: 376px) {
+    nav ul{
+        text-align: center;
+        li{
+            padding: 1rem .45rem 0 .1rem;
+        }
+    }
+    .mobile-only{
+        display: inline-block;
+    }
+    .sidebar{
+        display: none;
+    }
+    .container{
+        display: grid;
+        grid-template-columns:  [window-left] auto 
+                                [content-left] 95%
+                                [content-right sidebar-left] 0px
+                                [sidebar-right] auto
+                                [window-right];
+        grid-template-rows:     [nav-top] 50px
+                                [nav-bottom breadcrumb-top] 50px
+                                [breadcrumb-bottom content-top] minmax(1px,auto) 1fr
+                                [content-bottom];
+    }
+    .content{
+        padding: 1rem;
+        border-radius: .25rem;
+        h1{
+            font-size: 2rem;
+        }
+        h2{
+            font-size: 1.5rem;
+            line-height: 2.2rem;
+            margin-bottom: .5rem;
+        }
+        .home-posts{
+            margin-top: 1rem;
+            a{
+                margin-bottom: 0;
+                padding: .75rem .2rem;
+            }
+        }
+    }
+}

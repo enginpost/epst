@@ -1,7 +1,11 @@
     <ul>
     {% for item in site.data.navigation %}
-        {% if item.show %}
-        <li>{% if page.url != item.link %}<a href="{{item.link}}">{{ item.name | upcase }}</a>{% else %}{{item.name | capitalize }}{% endif %}</li>
+        {% if item.render %}
+            {% if item.mobile_only %}
+                <li class="mobile-only">{% if page.url != item.link %}<a href="{{item.link}}">{{ item.name | upcase }}</a>{% else %}{{item.name | capitalize }}{% endif %}</li>
+            {% else %}
+                <li>{% if page.url != item.link %}<a href="{{item.link}}">{{ item.name | upcase }}</a>{% else %}{{item.name | capitalize }}{% endif %}</li>
+            {% endif %}
         {% endif %}
     {% endfor %}
     </ul>

@@ -2,3 +2,4 @@ _site
 _site/**
 .jekyll-cache
 .jekyll-cache/**
+_commands.txt

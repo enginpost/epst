@@ -10,7 +10,7 @@ topics: true
   <h1 class="page-heading">{% if page.autopages %}{{page.autopages.display_name | upcase}}{% endif %} ( Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}})</h1>
 
   {{ content | markdownify }}
-{{page.url}}
+
   <div class="home-posts">
     {% for post in paginator.posts %}
     <a href="{{post.url}}">

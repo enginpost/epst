@@ -1,16 +1,20 @@
 - name: EPST.CO
-  show: true
+  render: true
+  mobile_only: false
   link: /index.html
   bcrumb: ''
 - name: Archive
-  show: true
+  render: true
+  mobile_only: false
   link: /archive/
   bcrumb: '<a href="/">HOME</a> &gt; '
 - name: Topics
-  show: false
+  mobile_only: true
+  render: true
   link: /topic/
-  bcrumb: '<a href="/">HOME</a> &gt; TOPICS'
+  bcrumb: '<a href="/">HOME</a> &gt; '
 - name: Topics
-  show: false
+  render: false
+  mobile_only: false
   link: /articles/
   bcrumb: '<a href="/">HOME</a> &gt; ARTICLES'
