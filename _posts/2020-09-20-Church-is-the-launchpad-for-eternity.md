@@ -6,7 +6,7 @@ title: Church is the launchpad for eternity
 ---
 There is no replacement in life for your natural human family. No doubt. I've learned so many hard lessons in life from spending time with my family. In that way, family is a launchpad for life. It isn't about having a perfect family and early experience, but what you learned from that and how you let it shape you. In the same way, church is the launchpad for eternity. Whether it is the perfect experience or not isn't the question. Spoiler alter: it is not going to be perfect. Again, it is all about how you let it shape you.
 
-![Upper Room Church in Dallas](/assets/images/upperroom-dallas.jpg){:.wide}
+![Upper Room Church in Dallas](/assets/images/UpperRoom-Dallas-location.jpg){:.wide}
 
 ## Let church life shape you
 Let me tell you how it can help shape you.
@@ -41,7 +41,7 @@ This is where church life makes a huge difference for me. I am not just reading 
 ) Church life, often via worship and pastoral ministry, speaks prophetically over and into my life helping me see that I have so much more to learn, that there are so many more opportunities to grow. And it wriggles it's way straight into my head and heart, in a personal manner. Let me tell you about my pastors.
 
 ### Upper Room - Campus Pastor Kevin Tipps
-![Pastor Kevin Tipps](/assets/images/upperRoom-Pastor_Kevin-Tipps.jpg){:.wide}
+![Pastor Kevin Tipps](/assets/images/UpperRoom-Pastor_KevinTipps.jpg){:.wide}
 Kevin is the Dallas campus pastor. He was previously a missionary and is now living in Dallas and  married to his wife Brethany and has a son named Ellis. His heart is definitely for the Dallas church community and was saved out of a lot as a younger man. Kevin talks about how he was saved out of a gay lifestyle. I recall being genuinely touched by the Lord my first time in worship at the church and Kevin was ministering and caring for people all over the place in a spirit-filled manner. It is great to be a part of a community that really believes in bringing in the ministry of heaven in ways that heal and set people free.
 
 ### Upper Room - Lead Pastor and Founder Michael Miller
