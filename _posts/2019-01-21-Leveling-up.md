@@ -5,7 +5,7 @@ tags:
 - ART
 title: "Icons - Can they be fun again?"
 ---
-Someone I follow on social media posted something that reminded them of runts candies. Remember those from when you were younger? Recall the mixed reviews on the little banana-shaped ones?
+Someone I follow on social media posted something that reminded them of runts candies.  Remember those from when you were younger? Recall the mixed reviews on the little banana-shaped ones?
 
 ![Runts candies](/assets/images/runts.jpg){:.wide}
 
