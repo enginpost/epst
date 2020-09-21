@@ -262,6 +262,20 @@ nav{
             padding-bottom: 10px;
             border-bottom: 1px solid $header-background;
         }
+        &.mask-middle{
+            transition: clip-path .5s linear, margin .5s linear;
+            max-width: 100%;
+            height: auto;
+            margin-top: -20%;
+            margin-bottom: -20%;
+            clip-path: inset(40% 0% 40% 0% round 5px);
+            &:hover{
+                margin-top: 0;
+                margin-bottom: 0;
+                clip-path: inset(0% round 5px);
+                border-radius: 5px;
+            }
+        }
     }
     p{
         margin-bottom: 1rem;
