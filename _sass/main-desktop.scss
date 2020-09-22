@@ -16,6 +16,10 @@ html{
     font-family: $default-font;
     background-color: $dark-grey
 }
+iframe{
+    width: 100%;
+    border-radius: .5rem;
+}
 .mobile-only{
     display:none;
 }
