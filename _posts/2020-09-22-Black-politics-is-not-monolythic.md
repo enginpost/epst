@@ -52,7 +52,7 @@ Conservative author, columnist, and [vloger](https://www.youtube.com/channel/UCZ
 ## Black Republican
 The [Black Republican](https://blackrepublican.blogspot.com/){:.external} blogger
 
-The list goes on and on and on and it should be worth noting I've intentionally left out many very recognizable popular black voices here: 
+The list goes on and on and on and it should be worth noting I've intentionally left out many very recognizable popular black voices here:
 
 * Michael Steele
 * Condoleezza Rice
@@ -71,15 +71,15 @@ The list goes on and on and on and it should be worth noting I've intentionally 
 * T.D. Jakes
 * Jimmie Walker
 * Thomas Sowell
-* Alveda King, 
+* Alveda King
 * Amy Holms
 * Stephen L. Carter
 * Joseph C Phillips
 * Dick Parsons
 * Carol Miller Swain
-* Charles Payne 
+* Charles Payne
 
-... and dear glorious heaven the list goes on and on and on. All it takes is searching for conservative black voices to know there is no shortage of brilliant black conservatives. 
+... and dear glorious heaven the list goes on and on and on. All it takes is searching for conservative black voices to know there is no shortage of brilliant black conservatives.
 
 I am confident the above people would feel fully offended if someone stood before them and informed them that either...
 
