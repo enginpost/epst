@@ -50,11 +50,11 @@ Below are new and historical articles on ballot harvesting.
 
 ### USA Today
 
-* [Feds announce inquiry involving 9 mail-in ballots in Pennsylvania as Trump rails about fraud](https://www.usatoday.com/story/news/politics/2020/09/24/feds-review-9-discarded-ballots-pennsylvania/3524121001/)
+* [Feds announce inquiry involving 9 mail-in ballots in Pennsylvania as Trump rails about fraud](https://www.usatoday.com/story/news/politics/2020/09/24/feds-review-9-discarded-ballots-pennsylvania/3524121001/) (All dumpd ballots found were votes for Trump)
 
 ### Townhall
 
-* [A PA News Outlet Fails to Prove Voter Fraud is Rare in the State With Questionable Photo](https://townhall.com/tipsheet/alexcorey/2020/06/30/philadelphia-inquirer-photo-fail-regarding-honesty-in-mail-ballot-drop-boxes-n2571616)
+* [A PA News Outlet Fails to Prove Voter Fraud is Rare in the State With Questionable Photo](https://townhall.com/tipsheet/alexcorey/2020/06/30/philadelphia-inquirer-photo-fail-regarding-honesty-in-mail-ballot-drop-boxes-n2571616) (photo shared directly showed illegal harvesting)
 
 ### Philadelphia Inquirer
 
@@ -63,11 +63,11 @@ Below are new and historical articles on ballot harvesting.
 ### Youtube
 
 * [“Ballot Harvesting”: How Was It Played In 2018? Will It Repeat in 2020?](https://www.youtube.com/watch?v=NfBNwI7r1cs)
-* [Multiple military mail-in ballots found trashed in Pennsylvania, 3 trays of mail-in ballot found in a ditch](https://www.youtube.com/watch?v=E3j8q5m9E5c)
-* ["Picking Up My Ballot"?](https://www.youtube.com/watch?v=0s-9Q_N09H0)
+* [Multiple military mail-in ballots found trashed in Pennsylvania, 3 trays of Wisconsin mail-in ballots found in a ditch](https://www.youtube.com/watch?v=E3j8q5m9E5c)
+* ["Picking Up My Ballot"?](https://www.youtube.com/watch?v=0s-9Q_N09H0) (Illegal harvesting by Democrats violating multiple laws)
 * [Documents Show More People Connected To Vote Harvesting Scheme In Tarrant County](https://www.youtube.com/watch?v=BYuXPCb9sXI)
 * [Election officials: Some absentee ballots never delivered](https://www.youtube.com/watch?v=-nP907n92FE)
-* [New York Primary Mess Highlights Concern Over Mail-In Ballots, November Election - NBC Nightly News](https://www.youtube.com/watch?v=pNhSDtuVwPY)
+* [New York Primary Mess Highlights Concern Over Mail-In Ballots, November Election - NBC Nightly News](https://www.youtube.com/watch?v=pNhSDtuVwPY) (Took more than 6 weeks after the election to begin to resolve)
 * [Mail-in ballot election fraud in Gregg County](https://www.youtube.com/watch?v=stZtdiJw9Eo)
 * [Wisconsin absentee ballot investigation underway after recent election](https://www.youtube.com/watch?v=lj_EdyuK8NI)
 * [Mail-In Ballots Are The Greatest Risk For Election Fraud: Hans von Spakovsky](https://www.youtube.com/watch?v=zg0-8VH8_WE)
@@ -84,4 +84,4 @@ Below are new and historical articles on ballot harvesting.
 * [Washington man receives Oregon ballot, worries about fraud](https://www.youtube.com/watch?v=oLj6jXKZx2A)
 * [Hennepin Co. investigating absentee ballot fraud](https://www.youtube.com/watch?v=WFB_LqtHMR0)
 * [Special US House election after alleged ballot fraud](https://www.youtube.com/watch?v=_PVOzP-eLJ4)
-* [Absentee Ballot Fraud in New Haven](https://youtu.be/PhByDcCeD78?t=3509)
+* [Absentee Ballot Fraud in New Haven](https://youtu.be/PhByDcCeD78?t=3509) (Ballots went missing, only to be found later with someone else filling them out and submitting them)
