@@ -21,9 +21,7 @@ Actors standing around delivering lines in accidental environments might be deli
 
 Sound editing in poorly made films is an often overlooked element. Listen to the sound design in the trailer for the film _The Vanishing_.
 
-<div class="responsive-video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BMwG9-GfcJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include youtube.partial.html src="https://www.youtube.com/embed/BMwG9-GfcJI" %}
 
 There is a nice balance between music and dialogue, the words are easily understood in terms of the equalization of sound. There is a subtle mix of reverb in different environments to imply the space they are in, but only symbolically. First, you would never hear dialogue so clearly. The lower base tones would be lost in most environments. In an exterior environment, you would be battling with the sounds of nature. Again, you hear this in the soundtrack to the trailer, but only symbolically: birds, the wind, the sea. It is there, but not in a natural unbalanced manner. it is only atmosphere.
 
@@ -41,9 +39,7 @@ And while that can be good stuff in hoping to achieve a filmic look to the story
 
 Take a look at the trailer for the movie _Donovan Reid_:
 
-<div class="responsive-video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DSQjMo1V69M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include youtube.partial.html src="https://www.youtube.com/embed/DSQjMo1V69M" %}
 
 Here are a few things I am noticing that keep this in the _nice_ category:
 

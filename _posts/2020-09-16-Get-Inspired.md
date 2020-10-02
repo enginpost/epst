@@ -24,9 +24,8 @@ So I don't just go find a ton of stuff that I might never read. I pre-curate a l
 An alternative to InoReader is Feedly. There are plenty of tools available for the free version, and if you subscribe you can have feedly gather a lot more information and curate it into a daily reader for you.
 
 Here is a little video that shows you how to manually setup the blogs you care about in the Feedly mobile app:
-<div class="responsive-video">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7Gn9t57PokI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+{% include youtube.partial.html src="https://www.youtube.com/embed/7Gn9t57PokI" %}
 
 ## Something Extra
 
