@@ -9,7 +9,7 @@ There are at least three mindsets on who believe they know what Trumps believes 
 
 >We have a statues act, a monument act, which puts you in jail for ten years for what they've done.
 
-What does Trump mean by "for what they've done" is a question the press ask, with all sorts of racism intentions assumed by the phrase. But it is important to listen to the rest of what he had to say.
+What does Trump mean by "for what they've done" is a question the press ask, with all sorts of racist intentions assumed by the phrase. But it is important to listen to the rest of what he had to say.
 
 >They were after Andrew Jackson. You know Andrew Jackson, the Battle of New Orleans ... He was a very good president, a great general.
 
