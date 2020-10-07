@@ -8,7 +8,7 @@ $default-font: 'Roboto', sans-serif;
 $header-background: rgb(125, 181, 255);
 $text-light-grey: rgb(133, 133, 133);
 $background-light-grey: rgb(114, 114, 114);
-$content-link-background: rgba(54, 53, 53,0);
+$content-link-background: rgba(84, 184, 100, 0);
 
 $content-link-background-highlight: rgba(54, 53, 53,1);
 /* self-responsive styles: start   */
@@ -17,7 +17,7 @@ html{
     background-color: $dark-grey
 }
 .logo, .LOGO{
-    background-color: rgb(45, 45, 45);
+    background-color: $text-dark-grey;
     display: inline-block;
     padding: 5px;
     border-radius: 1rem;
@@ -412,7 +412,7 @@ nav{
             margin: 3rem 0;
             border-radius: 1rem;
             display: block;
-            background-color: #373d46;
+            background-color: rgba(55, 61, 70,.5);
             padding: 2rem;
             font-size: 1.25rem;
             line-height: 1.75rem;
