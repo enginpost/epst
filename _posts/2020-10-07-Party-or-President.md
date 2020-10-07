@@ -6,6 +6,8 @@ title: "Do we vote for Political Party or the Candidate"
 ---
 Is voting for a presidential candidate a popularity contest? Is the role of president the personification of an agenda despite party affiliation? Does it boil down to agenda or representation? How does the character of a candidate and their personal history weigh into a political party's nominee?
 
+![President or party](/assets/images/president-or-party.png){:.wide}
+
 A few worthy facts:
 
 * Political parties didn't exist before elections started.
