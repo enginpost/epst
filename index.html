@@ -10,11 +10,19 @@ pagination:
 
 <div class="home-posts">
     {% for post in paginator.posts %}
+    {% if post.layout == 'quote' %}
+    <span class="quote">
+        {{post.content}}
+       <span class="author">- {{post.author}}</span>
+       <span class="info"><a href="{{post.a_link}}">{{post.a_info}}</a></span>
+    </span>
+    {% else %}
     <a href="{{post.url}}">
         <h2>{{post.title}}</h2>
         <div class="home-post-date">{{post.date | date: "%d-%b-%Y" | upcase }}</div>
         <div class="home-excerpt">{{post.excerpt | truncatewords: 30}}</div>
     </a>
+    {% endif %}
     {% endfor %}
 </div>
 {% include paginator.partial.html %}
