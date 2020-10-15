@@ -27,4 +27,8 @@ _The hands remain low-poly but we can get good deformation and articulation usin
 ![high polygonally detailed head model](/assets/images/modeled-head.jpg){:.wide}
 _The head is now modeled with an insane number of vectors, and it is now ready to be transformed into a much smaller light-weight model. This is done by projecting the model details onto a much more simple set of far fewer vectors. Think of it like cutting the shape of a dolls head out of wood using simple angles, but painting in the details._
 
+## High-Poly Head Render 
+![high polygonally detailed head model](/assets/images/face-render.png){:.wide}
+_I tossed a few color materials on the head and setup some simple lighting for a quick render. The head is coming along well._
+
 >_This article was originally written on October 13, 2020, and content is being added as I create the character._
