@@ -19,6 +19,12 @@ _You can see here the the basic model is deforming and bending nicely for the an
 ![higher detail dancing model](/assets/images/female-details.gif){:.wide}
 _Still no head or hands. But the body has a bit more definition. The butt looks more like a rump. The elbows and knees have a little more definition. The legs look more defined. The shoulders look more human and deform a bit better. The waist and hips look more like human movement. For this model we did more smoothing and sculpting of the box-modeled character without adding poly counts. This makes the model look better without bogging down the computer doing the creating or animating._
 
-(I will add more progress to this over time as I move through the tutorials and build out my character.)
+## Low-Poly Hands
+![high polygonally detailed head model](/assets/images/modeled-hands.jpg){:.wide}
+_The hands remain low-poly but we can get good deformation and articulation using a hand full of cool techniques that help the model compress and expand in all the right places._
 
->_This article was originally written on October 13, 2020._
+## high-poly Head
+![high polygonally detailed head model](/assets/images/modeled-head.jpg){:.wide}
+_The head is now modeled with an insane number of vectors, and it is now ready to be transformed into a much smaller light-weight model. This is done by projecting the model details onto a much more simple set of far fewer vectors. Think of it like cutting the shape of a dolls head out of wood using simple angles, but painting in the details._
+
+>_This article was originally written on October 13, 2020, and content is being added as I create the character._
