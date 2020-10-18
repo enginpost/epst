@@ -31,4 +31,8 @@ _The head is now modeled with an insane number of vectors, and it is now ready t
 ![high polygonally detailed head model](/assets/images/face-render.png){:.wide}
 _I tossed a few color materials on the head and setup some simple lighting for a quick render. The head is coming along well._
 
+## Finished Head with Skin Shading
+![Finished Female with shading](/assets/images/female-character-skinned.jpg){:.wide}
+_I created her hair and other details including setting up skin color sharing. You might notice that this is a different head from the one I created above. I took the time to redraw a new head and then remodel it, basically starting over. I like the proportions better on this head. And this is now the new low-poly version of the new high-poly head, made for animation. I am pretty thrilled with how well this turned out. I do think I will go back soon and make a number of small adjustments to the hair._
+
 >_This article was originally written on October 13, 2020, and content is being added as I create the character._
