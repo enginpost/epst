@@ -12,7 +12,7 @@ Recently, a number of pieces of evidences that Joe Biden has lived a politically
 * The laptop is not stolen. The contents are now owned by the repair shop due to the contract and the laptop not being retrieved by the owner in a timely manner. The information is not illegally being leaked. It is legally distributed by the owner.
 * The FBI is in possession of a copy of the harddrive.
 * After the news broke, the lawyer of Hunter Biden went to the repair shop owner and attempted to retrieve the laptop. At that point, the laptop was in the contractual ownership of the repair shop.
-* The shop owner did not personally know Hunter Biden and could not say if Hunter or one of Hunter Biden's associated actually dropped off the laptop initially. This inconsequential fact has been verified by the shop owner.
+* The shop owner did not personally know Hunter Biden and could not say if Hunter or one of Hunter Biden's associates actually dropped off the laptop initially. This inconsequential fact has been verified by the shop owner.
 * The FBI nor any other intelligence agency in the Federal Government considers Hunters laptop an artifact of Russian disinformation. This was verified by the Director of National Intelligence in response to Rep. Adam Shiff's spreading a lie that the laptop is a known asset of Russian disinformation.
 
 ## Alleged Crimes
